@@ -1,0 +1,6 @@
+Flask==2.2.3
+kivy==2.1.0
+pandas==1.5.3
+proxycurl_py==0.0.18
+python-dotenv==1.0.0
+requests==2.25.1
